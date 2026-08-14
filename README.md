@@ -13,6 +13,10 @@ Below is the log of completed assignments:
 * **Assignment 2: Tuple Operations**
   * *Topic:* Creating an immutable course enrollment tracker.
   * *Concepts:* Tuple slicing, unpacking, and memory reassignment.
+
+* **Assignment 3: Dictornary Operations**
+* *Topic:* Food Cuisines across the globe 
+  * *Concepts:* Key-value mapping, nested data, and value updates.
 ## Academic Info
 * **University:** MIT-WPU
 * **Course:** CSE
