@@ -39,7 +39,7 @@ Below is the log of completed assignments and practice work:
 * **Dictionary Practice**
 
   * *Topic:* Food cuisines across the globe.
-  * *Concepts:* Key-value mapping, nested data, and value updates.
+  * *Concepts:* Key-value mapping, nested data, and value updates.	
 * **NumPy Practice**
 
   * *Topic:* Creating, copying, reshaping, and splitting arrays.
